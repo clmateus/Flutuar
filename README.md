@@ -9,7 +9,7 @@
   <h3 align="center">Flutuar</h3>
 
   <p align="center">
-    Uma landing page de um serviço de viagens.
+    Uma landing page de uma agência de viagens.
     <br />
     <a href="https://clmateus.github.io/Flutuar"/>Veja esse projeto na Web!</a>
   </p>
