@@ -20,6 +20,8 @@
 
 Uma landing page construída com HTML e CSS que contém informações sobre uma agência de viagens.
 
+<img src="./assets/img1.png"/>
+
 Neste projeto pude desenvolver algumas habilidades como:
 * HTML semântico
 * CSS responsivo
